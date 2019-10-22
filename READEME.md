@@ -8,4 +8,6 @@ This package also includes some test files to ease the usage of the package, and
 
 Any suggests and comments are welcome!
 
+Reference: [Solving Phase Retrieval via Graph Projection Splitting](https://arxiv.org/pdf/1910.08714.pdf)
+
 Feel free to contact me at matliji@nus.edu.sg
